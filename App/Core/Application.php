@@ -2,7 +2,6 @@
 
 namespace App\Core;
 
-use App\Core\DI;
 use App\Core\DI\DependencyContainer;
 
 class Application {
